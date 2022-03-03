@@ -1,0 +1,13 @@
+.HomePage{
+
+  .app-title{
+    margin-bottom: 20px;
+  }
+
+  .team-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+  }
+}
